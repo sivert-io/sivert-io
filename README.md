@@ -1,17 +1,36 @@
-<div align="center">
+### Check out some projects I’ve built
 
-  <!-- Project Icons -->
-  <a href="https://mat.sivert.io">
-    <img src="./mat-icon.svg" width="25%" alt="MAT Icon"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gryt.chat">
-    <img src="./gryt-icon.svg" width="25%" alt="Gryt Icon"/>
-  </a>
+<table>
+  <tr>
+    <td width="120">
+      <a href="https://mat.sivert.io">
+        <img src="./mat-icon.svg" width="100" alt="MAT Icon"/>
+      </a>
+    </td>
+    <td>
+      <strong>MAT — MatchZy Auto Tournament</strong><br/>
+      Automated CS:GO tournament system used at NTLAN and local events.
+    </td>
+  </tr>
 
-</div>
+  <tr><td colspan="2" height="10"></td></tr>
+
+  <tr>
+    <td width="120">
+      <a href="https://gryt.chat">
+        <img src="./gryt-icon.svg" width="100" alt="Gryt Icon"/>
+      </a>
+    </td>
+    <td>
+      <strong>Gryt</strong><br/>
+      Open-source voice & text chat platform — my biggest passion project.
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+
 
 ## 👋🏼 Hey, I'm **Sivert**
 
