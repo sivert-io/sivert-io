@@ -2,11 +2,11 @@
 
   <!-- Project Icons -->
   <a href="https://mat.sivert.io">
-    <img src="./mat-icon.svg" height="80" alt="MAT Icon"/>
+    <img src="./mat-icon.svg" width="25%" alt="MAT Icon"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gryt.chat">
-    <img src="./gryt-icon.svg" height="80" alt="Gryt Icon"/>
+    <img src="./gryt-icon.svg" width="25%" alt="Gryt Icon"/>
   </a>
 
 </div>
