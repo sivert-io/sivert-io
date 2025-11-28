@@ -17,6 +17,20 @@
 
   <tr>
     <td width="120">
+      <a href="https://github.com/sivert-io/MatchZy">
+        <img src="./matchzy-icon.svg" width="100" alt="MatchZy Icon"/>
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/sivert-io/MatchZy">MatchZy Enhanced</a></strong><br/>
+      ⚡ Enhanced CS2 match plugin fork — tailored for tournament automation with real-time event tracking.
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <td width="120">
       <a href="https://gryt.chat">
         <img src="./gryt-icon.svg" width="100" alt="Gryt Icon"/>
       </a>
