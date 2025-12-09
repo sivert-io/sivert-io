@@ -31,20 +31,6 @@
 
   <tr>
     <td width="120">
-      <a href="https://gryt.chat">
-        <img src="./gryt-icon.svg" width="100" alt="Gryt Icon"/>
-      </a>
-    </td>
-    <td>
-      <strong><a href="https://gryt.chat">Gryt</a></strong><br/>
-      Open-source voice & text chat platform — my biggest passion project.
-    </td>
-  </tr>
-
-  <tr><td colspan="2" height="14"></td></tr>
-
-  <tr>
-    <td width="120">
       <a href="https://github.com/sivert-io/cs2-server-manager">
         <img src="./csm-icon.svg" width="100" alt="CSM Icon"/>
       </a>
@@ -52,6 +38,20 @@
     <td>
       <strong><a href="https://github.com/sivert-io/cs2-server-manager">CSM — Counter-Strike Server Manager</a></strong><br/>
       💣 Automated CS2 multi-server manager with competitive plugins and tournament integration.
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <td width="120">
+      <a href="https://gryt.chat">
+        <img src="./gryt-icon.svg" width="100" alt="Gryt Icon"/>
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://gryt.chat">Gryt</a></strong><br/>
+      Open-source voice & text chat platform — my biggest passion project.
     </td>
   </tr>
 </table>
