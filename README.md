@@ -1,4 +1,4 @@
-### Check out some projects I’ve built
+### Check out some projects I've built
 
 <table>
   <tr>
@@ -38,6 +38,20 @@
     <td>
       <strong><a href="https://github.com/sivert-io/cs2-server-manager">CSM — Counter-Strike Server Manager</a></strong><br/>
       💣 Automated CS2 multi-server manager with competitive plugins and tournament integration.
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <td width="120">
+      <a href="https://github.com/sivert-io/kanbn-github-sync">
+        <img src="./kgs-icon.svg" width="100" alt="KGS Icon"/>
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/sivert-io/kanbn-github-sync">KGS — Kanbn GitHub Sync</a></strong><br/>
+      🔄 Automated GitHub issue synchronization to Kanbn — zero manual board setup, smart list assignment.
     </td>
   </tr>
 
