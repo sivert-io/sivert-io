@@ -76,7 +76,7 @@
 
 ## 👋🏼 Hey, I'm **Sivert**
 
-Norwegian full-stack developer, designer, and digital sustainability researcher with a huge passion for free and open-source software. I've been coding for over 11 years, and I build quality projects that solve real problems — from tournament automation to communication platforms.
+Norwegian full-stack developer, designer, and digital sustainability researcher with a huge passion for free and open-source software. I've been coding for over 11 years, and I like building things that solve real problems — mostly tournament automation and chat platforms.
 
 - 🛠️ **Building:** [**Gryt**](https://github.com/Gryt-chat) — an open-source voice & text chat platform  
 - 💼 **Working:** Senior Product Engineer & UX Designer at [**Frifor**](https://frifor.app), after four years on gaming platforms at Norsk Tipping  
