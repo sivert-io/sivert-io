@@ -76,11 +76,13 @@
 
 ## 👋🏼 Hey, I'm **Sivert**
 
-Experienced Norwegian developer and designer with a huge passion for free and open-source software. I build quality projects that solve real problems — from tournament automation to communication platforms.
+Norwegian full-stack developer, designer, and digital sustainability researcher with a huge passion for free and open-source software. I've been coding for over 11 years, and I build quality projects that solve real problems — from tournament automation to communication platforms.
 
 - 🛠️ **Building:** [**Gryt**](https://github.com/Gryt-chat) — an open-source voice & text chat platform  
+- 💼 **Working:** Senior Product Engineer & UX Designer at [**Frifor**](https://frifor.app), after four years on gaming platforms at Norsk Tipping  
 - 🎮 **Automating:** [**MatchZy Auto Tournament (MAT)**](https://github.com/sivert-io/matchzy-auto-tournament) — a CS2 tournament tool used at NTLAN  
-- 🎓 **Studying:** Master's in Interaction Design at NTNU (our bachelor project won the 🏆 Eurekaprize 2023)  
+- 🎓 **Studied:** Master's in Interaction Design at NTNU, grade A — our bachelor project won the 🏆 Eurekaprize 2023  
+- 📄 **Published:** two peer-reviewed papers on sustainable web design — [HCI International](https://doi.org/10.1007/978-3-031-35699-5_11) and [ACM MuC](https://dl.acm.org/doi/abs/10.1145/3603555.3608529)  
 - 🌱 **Passionate about:** FOSS, sustainable web, accessibility, and well-crafted digital experiences  
 - 🎧 **Fun fact:** I've been producing music since I was 12  
 - 🚗 **Side quests:** photography, gaming, and modding my Golf GTI Edition 35 — see [edition35.com](https://edition35.com)  
@@ -88,10 +90,10 @@ Experienced Norwegian developer and designer with a huge passion for free and op
 ---
 
 ## 🧠 Tech & Tools I Enjoy  
-JavaScript / TypeScript • Node.js • React • TailwindCSS • C# • Godot • AI/ML • Open Source • Accessibility • Sustainable Web
+JavaScript / TypeScript • React & React Native • Next.js • Node.js • Go • TailwindCSS • C# • Godot • Docker • AI/ML • Open Source • Accessibility • Sustainable Web
 
 ---
 
 ## 🏆 Badges & Counters  
-![](https://komarev.com/ghpvc/?username=SivertGullbergHansen&color=fd1d8b)  
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/SivertGullbergHansen/ama)
+![](https://komarev.com/ghpvc/?username=sivert-io&color=fd1d8b)  
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sivert-io/ama)
