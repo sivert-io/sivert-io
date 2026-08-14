@@ -1,0 +1,106 @@
+name: Coding years
+
+# Keeps the "I started coding exactly X years, Y months and Z days ago" line in
+# README.md current. Daily, because the day part moves daily.
+#
+# Scheduled workflows get disabled after 60 days of repository inactivity. This
+# one commits most days, so it keeps itself alive.
+
+on:
+  schedule:
+    # 04:00 UTC. GitHub delays scheduled runs under load, sometimes by hours,
+    # which does not matter for a number that is only read by humans.
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coding-years
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Work out how long it has been
+        env:
+          # The day the counting starts from. This is the only line to change.
+          STARTED: "2013-03-01"
+        run: |
+          python3 - <<'PY'
+          import os
+          import pathlib
+          import re
+          from datetime import date, timedelta
+
+          started = date.fromisoformat(os.environ["STARTED"])
+          today = date.today()
+
+          if today < started:
+              raise SystemExit(f"STARTED ({started}) is in the future.")
+
+          # Calendar arithmetic rather than dividing by an average year, so the
+          # figure matches what a person counting on a calendar would say.
+          years = today.year - started.year
+          months = today.month - started.month
+          days = today.day - started.day
+
+          if days < 0:
+              # Borrow from the month that just ended, which is however long
+              # that particular month was.
+              months -= 1
+              last_of_prev_month = today.replace(day=1) - timedelta(days=1)
+              days += last_of_prev_month.day
+
+          if months < 0:
+              years -= 1
+              months += 12
+
+          def plural(value, noun):
+              return f"{value} {noun}" if value == 1 else f"{value} {noun}s"
+
+          phrase = (
+              f"{plural(years, 'year')}, "
+              f"{plural(months, 'month')} and "
+              f"{plural(days, 'day')}"
+          )
+
+          path = pathlib.Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          updated, count = re.subn(
+              r"(<!--coding-->).*?(<!--/coding-->)",
+              lambda m: m.group(1) + phrase + m.group(2),
+              text,
+              flags=re.DOTALL,
+          )
+
+          if count == 0:
+              raise SystemExit("No <!--coding--> markers found in README.md.")
+
+          if updated == text:
+              print(f"Already reads {phrase}.")
+          else:
+              path.write_text(updated, encoding="utf-8")
+              print(f"Now reads {phrase}.")
+          PY
+
+      - name: Commit if it moved
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- README.md; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Another day of it [skip ci]"
+          git push
