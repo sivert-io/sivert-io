@@ -76,7 +76,7 @@
 
 ## 👋🏼 Hey, I'm **Sivert**
 
-Norwegian developer and designer with a huge passion for free and open-source software. I started coding exactly <!--coding-->13 years, 5 months and 21 days<!--/coding--> ago, and I like building things that solve real problems — mostly tournament automation and chat platforms.
+Norwegian developer and designer with a huge passion for free and open-source software. I started coding exactly <!--coding-->13 years, 5 months and 22 days<!--/coding--> ago, and I like building things that solve real problems — mostly tournament automation and chat platforms.
 
 - 🛠️ Building [**Gryt**](https://github.com/Gryt-chat), an open-source voice & text chat platform  
 - 💼 Senior Product Engineer & UX Designer at [**Frifor**](https://frifor.app), after four years on gaming platforms at Norsk Tipping  
