@@ -59,6 +59,20 @@
 
   <tr>
     <td width="120">
+      <a href="https://github.com/sivert-io/sprakvask">
+        <img src="./sprakvask-icon.svg" width="100" alt="Språkvask Icon"/>
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/sivert-io/sprakvask">Språkvask</a></strong><br/>
+      🇳🇴 A Norwegian language skill for AI coding agents. Encodes Språkrådet's norms for spelling, punctuation and plain language — and catches the tells of Norwegian written by someone thinking in English.
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <td width="120">
       <a href="https://github.com/sivert-io/kanbn-github-sync">
         <img src="./kgs-icon.svg" width="100" alt="KGS Icon"/>
       </a>
