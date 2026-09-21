@@ -23,7 +23,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/Auto-Tournament/auto-tournament">Auto Tournament</a></strong><br/>
-      🏆 Self-hosted tournament platform (formerly MatchZy Auto Tournament) that runs CS2 tournaments on MatchZy Enhanced servers: brackets, map veto, match loading and live scores. Used at NTLAN.
+      🏆 Self-hosted tournament platform (formerly MatchZy Auto Tournament) that runs CS2 tournaments on servers with the Auto Tournament CS2 plugin: brackets, map veto, match loading and live scores. Used at NTLAN.
     </td>
   </tr>
 
@@ -51,7 +51,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/Auto-Tournament/cs2-server-manager">CSM — CS2 Server Manager</a></strong><br/>
-      💣 Command-line tool that installs and runs several CS2 dedicated servers on one Linux machine, with MatchZy Enhanced, CounterStrikeSharp and Metamod.
+      💣 Command-line tool that installs and runs several CS2 dedicated servers on one Linux machine, with the Auto Tournament CS2 plugin, CounterStrikeSharp and Metamod.
     </td>
   </tr>
 
