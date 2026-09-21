@@ -31,12 +31,12 @@
 
   <tr>
     <td width="120">
-      <a href="https://github.com/Auto-Tournament/auto-tournament-cs2">
+      <a href="https://github.com/Auto-Tournament/cs2-plugin">
         <img src="./me-icon.svg" width="100" alt="Auto Tournament CS2 icon"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/Auto-Tournament/auto-tournament-cs2">Auto Tournament CS2</a></strong><br/>
+      <strong><a href="https://github.com/Auto-Tournament/cs2-plugin">Auto Tournament CS2</a></strong><br/>
       ⚡ CS2 server plugin for Auto Tournament (formerly MatchZy Enhanced), based on MatchZy: extra events, a match report API and per-server config.
     </td>
   </tr>
