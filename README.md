@@ -23,7 +23,7 @@
     </td>
     <td>
       <strong><a href="https://github.com/sivert-io/matchzy-auto-tournament">MAT — MatchZy Auto Tournament</a></strong><br/>
-      🏆 Runs a CS2 tournament end to end: brackets, live match tracking, and handing out servers as matches start. Used at NTLAN.
+      🏆 Web app that runs CS2 tournaments on MatchZy Enhanced servers: brackets, map veto, match loading and live scores. Used at NTLAN.
     </td>
   </tr>
 
@@ -31,13 +31,13 @@
 
   <tr>
     <td width="120">
-      <a href="https://github.com/sivert-io/MatchZy">
-        <img src="./matchzy-icon.svg" width="100" alt="MatchZy Icon"/>
+      <a href="https://github.com/sivert-io/MatchZy-Enhanced">
+        <img src="./me-icon.svg" width="100" alt="MatchZy Enhanced Icon"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/sivert-io/MatchZy">MatchZy Enhanced</a></strong><br/>
-      ⚡ A fork of the CS2 match plugin, with the live event tracking MAT needs to follow a game as it happens.
+      <strong><a href="https://github.com/sivert-io/MatchZy-Enhanced">MatchZy Enhanced</a></strong><br/>
+      ⚡ Fork of MatchZy, the CS2 match plugin, maintained for MAT: extra events, a match report API and per-server config.
     </td>
   </tr>
 
@@ -50,8 +50,8 @@
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/sivert-io/cs2-server-manager">CSM — Counter-Strike Server Manager</a></strong><br/>
-      💣 Runs a fleet of CS2 servers, with the competitive plugins and the tournament hooks already wired up.
+      <strong><a href="https://github.com/sivert-io/cs2-server-manager">CSM — CS2 Server Manager</a></strong><br/>
+      💣 Command-line tool that installs and runs several CS2 dedicated servers on one Linux machine, with MatchZy Enhanced, CounterStrikeSharp and Metamod.
     </td>
   </tr>
 
