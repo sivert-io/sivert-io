@@ -17,13 +17,13 @@
 
   <tr>
     <td width="120">
-      <a href="https://github.com/sivert-io/matchzy-auto-tournament">
-        <img src="./mat-icon.svg" width="100" alt="MAT Icon"/>
+      <a href="https://github.com/Auto-Tournament/auto-tournament">
+        <img src="./at-icon.svg" width="100" alt="Auto Tournament icon"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/sivert-io/matchzy-auto-tournament">MAT — MatchZy Auto Tournament</a></strong><br/>
-      🏆 Web app that runs CS2 tournaments on MatchZy Enhanced servers: brackets, map veto, match loading and live scores. Used at NTLAN.
+      <strong><a href="https://github.com/Auto-Tournament/auto-tournament">Auto Tournament</a></strong><br/>
+      🏆 Self-hosted tournament platform (formerly MatchZy Auto Tournament) that runs CS2 tournaments on MatchZy Enhanced servers: brackets, map veto, match loading and live scores. Used at NTLAN.
     </td>
   </tr>
 
@@ -31,13 +31,13 @@
 
   <tr>
     <td width="120">
-      <a href="https://github.com/sivert-io/MatchZy-Enhanced">
+      <a href="https://github.com/Auto-Tournament/MatchZy-Enhanced">
         <img src="./me-icon.svg" width="100" alt="MatchZy Enhanced Icon"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/sivert-io/MatchZy-Enhanced">MatchZy Enhanced</a></strong><br/>
-      ⚡ Fork of MatchZy, the CS2 match plugin, maintained for MAT: extra events, a match report API and per-server config.
+      <strong><a href="https://github.com/Auto-Tournament/MatchZy-Enhanced">MatchZy Enhanced</a></strong><br/>
+      ⚡ Fork of MatchZy, the CS2 match plugin, maintained for Auto Tournament: extra events, a match report API and per-server config.
     </td>
   </tr>
 
@@ -45,12 +45,12 @@
 
   <tr>
     <td width="120">
-      <a href="https://github.com/sivert-io/cs2-server-manager">
+      <a href="https://github.com/Auto-Tournament/cs2-server-manager">
         <img src="./csm-icon.svg" width="100" alt="CSM Icon"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/sivert-io/cs2-server-manager">CSM — CS2 Server Manager</a></strong><br/>
+      <strong><a href="https://github.com/Auto-Tournament/cs2-server-manager">CSM — CS2 Server Manager</a></strong><br/>
       💣 Command-line tool that installs and runs several CS2 dedicated servers on one Linux machine, with MatchZy Enhanced, CounterStrikeSharp and Metamod.
     </td>
   </tr>
@@ -94,7 +94,7 @@ Norwegian developer and designer with a huge passion for free and open-source so
 
 - 🛠️ Building [**Gryt**](https://github.com/Gryt-chat), an open-source voice & text chat platform  
 - 💼 Senior Product Engineer & UX Designer at [**Frifor**](https://frifor.app), after four years on gaming platforms at Norsk Tipping  
-- 🎮 Maintaining [**MAT**](https://github.com/sivert-io/matchzy-auto-tournament), a CS2 tournament tool used at NTLAN  
+- 🎮 Maintaining [**Auto Tournament**](https://github.com/Auto-Tournament/auto-tournament), a CS2 tournament tool used at NTLAN  
 - 🎓 Master's in Interaction Design at NTNU, grade A. Our bachelor project won the 🏆 Eurekaprize 2023  
 - 📄 Two peer-reviewed papers on sustainable web design: [HCI International](https://doi.org/10.1007/978-3-031-35699-5_11) and [ACM MuC](https://dl.acm.org/doi/abs/10.1145/3603555.3608529)  
 - 🌱 Into FOSS, sustainable web, and accessibility  
