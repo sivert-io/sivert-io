@@ -23,7 +23,21 @@
     </td>
     <td>
       <strong><a href="https://github.com/Auto-Tournament/auto-tournament">Auto Tournament</a></strong><br/>
-      🏆 Self-hosted tournament platform (formerly MatchZy Auto Tournament) that runs CS2 tournaments on servers with the Auto Tournament CS2 plugin: brackets, map veto, match loading and live scores. Used at NTLAN.
+      🏆 Self-hosted tournament platform (formerly MatchZy Auto Tournament) that runs CS2 tournaments on servers with the Ready Up or MatchZy Enhanced plugin: brackets, map veto, match loading and live scores. Used at NTLAN.
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <td width="120">
+      <a href="https://github.com/Auto-Tournament/ready-up">
+        <img src="./ready-up-icon.svg" width="100" alt="Ready Up icon"/>
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://github.com/Auto-Tournament/ready-up">Ready Up</a></strong><br/>
+      🎯 Native CS2 match plugin for tournaments and scrims, with no Metamod or CounterStrikeSharp needed. A MatchZy / Get5 alternative that survives CS2 updates, and the future server side of Auto Tournament.
     </td>
   </tr>
 
@@ -32,12 +46,12 @@
   <tr>
     <td width="120">
       <a href="https://github.com/Auto-Tournament/cs2-plugin">
-        <img src="./me-icon.svg" width="100" alt="Auto Tournament CS2 icon"/>
+        <img src="./me-icon.svg" width="100" alt="MatchZy Enhanced icon"/>
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/Auto-Tournament/cs2-plugin">Auto Tournament CS2</a></strong><br/>
-      ⚡ CS2 server plugin for Auto Tournament (formerly MatchZy Enhanced), based on MatchZy: extra events, a match report API and per-server config.
+      <strong><a href="https://github.com/Auto-Tournament/cs2-plugin">MatchZy Enhanced</a></strong><br/>
+      ⚡ CounterStrikeSharp plugin for Auto Tournament, based on MatchZy (now named Auto Tournament CS2): extra events, a match report API and per-server config. MIT licensed.
     </td>
   </tr>
 
@@ -69,19 +83,6 @@
     </td>
   </tr>
 
-  <tr><td colspan="2" height="14"></td></tr>
-
-  <tr>
-    <td width="120">
-      <a href="https://github.com/sivert-io/kanbn-github-sync">
-        <img src="./kgs-icon.svg" width="100" alt="KGS Icon"/>
-      </a>
-    </td>
-    <td>
-      <strong><a href="https://github.com/sivert-io/kanbn-github-sync">KGS — Kanbn GitHub Sync</a></strong><br/>
-      🔄 Pulls GitHub issues onto a Kanbn board and works out which list each one belongs on, so there is no board to set up by hand.
-    </td>
-  </tr>
 </table>
 
 <br/>
