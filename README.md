@@ -45,20 +45,6 @@
 
   <tr>
     <td width="120">
-      <a href="https://github.com/Auto-Tournament/cs2-plugin">
-        <img src="./me-icon.svg" width="100" alt="MatchZy Enhanced icon"/>
-      </a>
-    </td>
-    <td>
-      <strong><a href="https://github.com/Auto-Tournament/cs2-plugin">MatchZy Enhanced</a></strong><br/>
-      ⚡ CounterStrikeSharp plugin for Auto Tournament, based on MatchZy (now named Auto Tournament CS2): extra events, a match report API and per-server config. MIT licensed.
-    </td>
-  </tr>
-
-  <tr><td colspan="2" height="14"></td></tr>
-
-  <tr>
-    <td width="120">
       <a href="https://github.com/Auto-Tournament/cs2-server-manager">
         <img src="./csm-icon.svg" width="100" alt="CSM Icon"/>
       </a>
